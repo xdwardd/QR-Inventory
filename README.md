@@ -64,12 +64,7 @@ Clone repository to your local machine using Git or download the project as ZIP 
 7. <b>React Toastify</b> <br> https://www.npmjs.com/package/react-toa
 8. <b>FontAwesom</b> <br> https://docs.fontawesome.com/web/use-with/react/
 
-### License
-Alright reserved (c) 2024 QR Inventory System
 
->The Software is property of Wealthbank and must NOT be modified or distributed 
-without the prior written consent of the copyright holders. Any anuthorized reproduction, modification,
-or distribution of this code inside or outside Wealthbank will result in legal action.
 
 
 
